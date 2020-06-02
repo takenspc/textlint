@@ -5,11 +5,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -70,7 +70,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -246,11 +246,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -311,7 +311,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -372,7 +372,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -470,11 +470,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -535,7 +535,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -596,26 +596,71 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
                             "type": "List",
                             "ordered": false,
                             "start": null,
-                            "loose": false,
+                            "spread": false,
                             "children": [
                                 {
                                     "type": "ListItem",
-                                    "loose": false,
+                                    "spread": false,
                                     "checked": null,
                                     "children": [
                                         {
-                                            "type": "Paragraph",
+                                            "type": "List",
+                                            "ordered": false,
+                                            "start": null,
+                                            "spread": false,
                                             "children": [
                                                 {
-                                                    "type": "Str",
-                                                    "value": "*\nyou today?",
+                                                    "type": "ListItem",
+                                                    "spread": false,
+                                                    "checked": null,
+                                                    "children": [
+                                                        {
+                                                            "type": "Paragraph",
+                                                            "children": [
+                                                                {
+                                                                    "type": "Str",
+                                                                    "value": "you today?",
+                                                                    "loc": {
+                                                                        "start": {
+                                                                            "line": 19,
+                                                                            "column": 0
+                                                                        },
+                                                                        "end": {
+                                                                            "line": 19,
+                                                                            "column": 10
+                                                                        }
+                                                                    },
+                                                                    "range": [
+                                                                        191,
+                                                                        201
+                                                                    ],
+                                                                    "raw": "you today?"
+                                                                }
+                                                            ],
+                                                            "loc": {
+                                                                "start": {
+                                                                    "line": 19,
+                                                                    "column": 0
+                                                                },
+                                                                "end": {
+                                                                    "line": 19,
+                                                                    "column": 10
+                                                                }
+                                                            },
+                                                            "range": [
+                                                                191,
+                                                                201
+                                                            ],
+                                                            "raw": "you today?"
+                                                        }
+                                                    ],
                                                     "loc": {
                                                         "start": {
                                                             "line": 18,
@@ -721,11 +766,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -786,7 +831,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {

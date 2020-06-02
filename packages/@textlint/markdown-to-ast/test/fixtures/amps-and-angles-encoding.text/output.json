@@ -259,6 +259,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "1",
+                    "label": "1",
                     "referenceType": "full",
                     "children": [
                         {
@@ -358,6 +359,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "2",
+                    "label": "2",
                     "referenceType": "full",
                     "children": [
                         {
@@ -633,6 +635,7 @@
         {
             "type": "Definition",
             "identifier": "1",
+            "label": "1",
             "title": null,
             "url": "http://example.com/?foo=1&bar=2",
             "loc": {
@@ -654,6 +657,7 @@
         {
             "type": "Definition",
             "identifier": "2",
+            "label": "2",
             "title": "AT&T",
             "url": "http://att.com/",
             "loc": {

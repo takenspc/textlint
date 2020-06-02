@@ -7,6 +7,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "baz",
+                    "label": "baz",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -87,6 +88,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo",
+                    "label": "foo",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -167,6 +169,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "bar",
+                    "label": "bar",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -244,6 +247,7 @@
         {
             "type": "Definition",
             "identifier": "baz",
+            "label": "baz",
             "title": "foo\nbar",
             "url": "/url",
             "loc": {
@@ -265,6 +269,7 @@
         {
             "type": "Definition",
             "identifier": "baz",
+            "label": "baz",
             "title": "foo\nbar",
             "url": "/url",
             "loc": {
@@ -286,6 +291,7 @@
         {
             "type": "Definition",
             "identifier": "baz",
+            "label": "baz",
             "title": "foo\nbar",
             "url": "/url",
             "loc": {
@@ -310,6 +316,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "baz",
+                    "label": "baz",
                     "referenceType": "shortcut",
                     "children": [
                         {

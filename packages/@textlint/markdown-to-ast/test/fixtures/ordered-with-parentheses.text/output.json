@@ -590,6 +590,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "Item 2. graf two. The quick brown fox jumped over the lazy dog's\nback.",
             "loc": {
                 "start": {

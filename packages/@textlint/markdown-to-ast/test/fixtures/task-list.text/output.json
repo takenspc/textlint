@@ -45,11 +45,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -58,6 +58,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": " ",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -132,7 +133,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -141,6 +142,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": "\t",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -234,11 +236,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -247,6 +249,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": "x",
+                                    "label": "x",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -321,7 +324,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -330,6 +333,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": "x",
+                                    "label": "X",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -463,11 +467,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [],
                     "loc": {
@@ -488,7 +492,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [],
                     "loc": {
@@ -528,11 +532,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [],
                     "loc": {
@@ -553,7 +557,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [],
                     "loc": {
@@ -633,11 +637,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [],
                     "loc": {
@@ -658,7 +662,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [],
                     "loc": {
@@ -698,11 +702,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [],
                     "loc": {
@@ -723,7 +727,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [],
                     "loc": {
@@ -803,11 +807,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -816,6 +820,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": " ",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -909,7 +914,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -918,6 +923,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": "\t",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -1030,11 +1036,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -1043,6 +1049,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": "x",
+                                    "label": "x",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -1136,7 +1143,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -1145,6 +1152,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": "x",
+                                    "label": "X",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -1297,11 +1305,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
@@ -1362,7 +1370,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
@@ -1442,11 +1450,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
@@ -1507,7 +1515,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
@@ -1627,11 +1635,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
@@ -1692,7 +1700,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
@@ -1772,11 +1780,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
@@ -1837,7 +1845,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
@@ -1957,16 +1965,17 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "Hello;",
                             "loc": {
                                 "start": {
@@ -2003,12 +2012,13 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "World;",
                             "loc": {
                                 "start": {
@@ -2064,11 +2074,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
@@ -2129,7 +2139,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
@@ -2249,16 +2259,17 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "Hello;",
                             "loc": {
                                 "start": {
@@ -2295,12 +2306,13 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "World;",
                             "loc": {
                                 "start": {
@@ -2356,16 +2368,17 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "Foo.",
                             "loc": {
                                 "start": {
@@ -2402,12 +2415,13 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "Bar.",
                             "loc": {
                                 "start": {
@@ -2503,16 +2517,17 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "    Hello;",
                             "loc": {
                                 "start": {
@@ -2568,16 +2583,17 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "World;",
                             "loc": {
                                 "start": {
@@ -2633,16 +2649,17 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "\tHello;",
                             "loc": {
                                 "start": {
@@ -2679,7 +2696,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": false,
                     "children": [
                         {
@@ -2759,11 +2776,11 @@
             "type": "List",
             "ordered": true,
             "start": 2,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": true,
                     "children": [
                         {
@@ -2883,11 +2900,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -2896,6 +2913,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": "\n",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -3008,11 +3026,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -3021,6 +3039,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": "\n",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -3173,11 +3192,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -3186,6 +3205,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": "  ",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -3298,11 +3318,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -3311,6 +3331,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": " \n",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -3404,7 +3425,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -3413,6 +3434,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": "\t\t",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {
@@ -3506,7 +3528,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -3515,6 +3537,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": " ",
+                                    "label": " \t ",
                                     "referenceType": "shortcut",
                                     "children": [
                                         {

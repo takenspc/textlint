@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^the generated",
+                    "label": "^the generated",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -86,6 +87,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^1",
+                    "label": "^1",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -166,6 +168,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^1",
+                    "label": "^1",
                     "referenceType": "shortcut",
                     "children": [
                         {

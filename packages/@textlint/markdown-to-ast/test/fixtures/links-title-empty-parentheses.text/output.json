@@ -7,6 +7,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "hello",
+                    "label": "Hello",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -87,6 +88,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "hello",
+                    "label": "Hello",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -167,6 +169,7 @@
                 {
                     "type": "imageReference",
                     "identifier": "hello",
+                    "label": "Hello",
                     "referenceType": "shortcut",
                     "alt": "Hello",
                     "loc": {
@@ -227,6 +230,7 @@
                 {
                     "type": "imageReference",
                     "identifier": "hello",
+                    "label": "Hello",
                     "referenceType": "shortcut",
                     "alt": "Hello",
                     "loc": {

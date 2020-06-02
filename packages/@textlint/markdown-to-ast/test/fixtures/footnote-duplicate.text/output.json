@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^wiki",
+                    "label": "^wiki",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -106,6 +107,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^wiki",
+                    "label": "^wiki",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -226,6 +228,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^wiki",
+                    "label": "^wiki",
                     "referenceType": "shortcut",
                     "children": [
                         {

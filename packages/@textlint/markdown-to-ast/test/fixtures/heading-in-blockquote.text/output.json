@@ -141,7 +141,27 @@
                         123
                     ],
                     "raw": "A blockquote followed by a horizontal rule (in CommonMark).\n---"
+                }
+            ],
+            "loc": {
+                "start": {
+                    "line": 6,
+                    "column": 0
                 },
+                "end": {
+                    "line": 7,
+                    "column": 3
+                }
+            },
+            "range": [
+                58,
+                123
+            ],
+            "raw": "> A blockquote followed by a horizontal rule (in CommonMark).\n---"
+        },
+        {
+            "type": "BlockQuote",
+            "children": [
                 {
                     "type": "Header",
                     "depth": 2,
@@ -185,7 +205,7 @@
             ],
             "loc": {
                 "start": {
-                    "line": 6,
+                    "line": 9,
                     "column": 0
                 },
                 "end": {
@@ -194,10 +214,10 @@
                 }
             },
             "range": [
-                58,
+                125,
                 158
             ],
-            "raw": "> A blockquote followed by a horizontal rule (in CommonMark).\n---\n\n> A heading in a blockquote\n> ---"
+            "raw": "> A heading in a blockquote\n> ---"
         }
     ],
     "loc": {

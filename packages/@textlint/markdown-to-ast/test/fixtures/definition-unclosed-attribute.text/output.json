@@ -7,6 +7,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "baz",
+                    "label": "baz",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -87,6 +88,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo",
+                    "label": "foo",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -167,6 +169,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "bar",
+                    "label": "bar",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -247,6 +250,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "baz",
+                    "label": "baz",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -327,6 +331,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo",
+                    "label": "foo",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -407,6 +412,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "bar",
+                    "label": "bar",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -487,6 +493,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "baz",
+                    "label": "baz",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -605,6 +612,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo",
+                    "label": "foo",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -723,6 +731,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "bar",
+                    "label": "bar",
                     "referenceType": "shortcut",
                     "children": [
                         {

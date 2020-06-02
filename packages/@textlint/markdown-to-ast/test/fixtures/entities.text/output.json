@@ -615,6 +615,7 @@
         {
             "type": "CodeBlock",
             "lang": "some—language",
+            "meta": null,
             "value": "alert('Hello');",
             "loc": {
                 "start": {
@@ -890,6 +891,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "C&Ouml;DE block.",
             "loc": {
                 "start": {

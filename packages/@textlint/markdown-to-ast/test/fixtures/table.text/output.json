@@ -915,6 +915,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "Test code",
             "loc": {
                 "start": {

@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^tostring",
+                    "label": "^toString",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -86,6 +87,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^__proto__",
+                    "label": "^__proto__",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -185,6 +187,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^constructor",
+                    "label": "^constructor",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -265,6 +268,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^tostring",
+                    "label": "^toString",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -363,6 +367,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^constructor",
+                    "label": "^constructor",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -461,6 +466,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^__proto__",
+                    "label": "^__proto__",
                     "referenceType": "shortcut",
                     "children": [
                         {

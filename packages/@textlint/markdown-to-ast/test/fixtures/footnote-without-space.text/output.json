@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^abc",
+                    "label": "^abc",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -86,6 +87,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^xyz",
+                    "label": "^xyz",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -166,6 +168,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^abc",
+                    "label": "^abc",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -243,6 +246,7 @@
         {
             "type": "Definition",
             "identifier": "^xyz",
+            "label": "^xyz",
             "title": null,
             "url": "Baz",
             "loc": {

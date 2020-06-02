@@ -426,6 +426,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "url and title",
+                    "label": "URL and title",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -506,6 +507,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "url and title",
+                    "label": "URL and title",
                     "referenceType": "shortcut",
                     "children": [
                         {

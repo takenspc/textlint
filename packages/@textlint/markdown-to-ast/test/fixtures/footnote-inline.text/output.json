@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^this is the _actual_ footnote.",
+                    "label": "^This is the _actual_ footnote.",
                     "referenceType": "shortcut",
                     "children": [
                         {

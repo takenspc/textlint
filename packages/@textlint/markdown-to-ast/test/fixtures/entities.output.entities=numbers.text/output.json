@@ -313,6 +313,7 @@
         {
             "type": "CodeBlock",
             "lang": "AT&T",
+            "meta": null,
             "value": "Something in the AT&amp;T language",
             "loc": {
                 "start": {
@@ -333,6 +334,7 @@
         {
             "type": "CodeBlock",
             "lang": "AT&T",
+            "meta": null,
             "value": "Something in the AT&#x26;T language",
             "loc": {
                 "start": {
@@ -1991,6 +1993,7 @@
                 {
                     "type": "imageReference",
                     "identifier": "favicon",
+                    "label": "favicon",
                     "referenceType": "full",
                     "alt": "AT&T with entity",
                     "loc": {
@@ -2031,6 +2034,7 @@
                 {
                     "type": "imageReference",
                     "identifier": "favicon",
+                    "label": "favicon",
                     "referenceType": "full",
                     "alt": "AT&T with numeric entity",
                     "loc": {
@@ -2071,6 +2075,7 @@
                 {
                     "type": "imageReference",
                     "identifier": "favicon",
+                    "label": "favicon",
                     "referenceType": "full",
                     "alt": "AT&T without entity",
                     "loc": {
@@ -2128,6 +2133,7 @@
         {
             "type": "Definition",
             "identifier": "favicon",
+            "label": "favicon",
             "title": "ATT favicon",
             "url": "http://att.com/fav.ico",
             "loc": {
@@ -2191,6 +2197,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo&bar",
+                    "label": "foo&bar",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -2251,6 +2258,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo&bar",
+                    "label": "foo&bar",
                     "referenceType": "collapsed",
                     "children": [
                         {
@@ -2311,6 +2319,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo&amp;bar",
+                    "label": "foo&amp;bar",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -2409,6 +2418,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "foo&amp;bar",
+                    "label": "foo&amp;bar",
                     "referenceType": "collapsed",
                     "children": [
                         {
@@ -2524,6 +2534,7 @@
         {
             "type": "Definition",
             "identifier": "foo&bar",
+            "label": "foo&bar",
             "title": null,
             "url": "http://example.com",
             "loc": {
@@ -2545,6 +2556,7 @@
         {
             "type": "Definition",
             "identifier": "foo&amp;bar",
+            "label": "foo&amp;bar",
             "title": null,
             "url": "http://example.com",
             "loc": {

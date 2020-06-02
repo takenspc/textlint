@@ -82,6 +82,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "how are you",
             "loc": {
                 "start": {
@@ -455,11 +456,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -714,6 +715,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "how",
+                    "label": "how",
                     "referenceType": "full",
                     "children": [
                         {
@@ -772,6 +774,7 @@
         {
             "type": "Definition",
             "identifier": "how",
+            "label": "how",
             "title": null,
             "url": "/are/you",
             "loc": {

@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^1",
+                    "label": "^1",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -125,6 +126,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^2",
+                    "label": "^2",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -205,6 +207,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^1",
+                    "label": "^1",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -323,6 +326,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^3",
+                    "label": "^3",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -400,6 +404,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "-   Containing a list.",
             "loc": {
                 "start": {
@@ -423,6 +428,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^2",
+                    "label": "^2",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -561,6 +567,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^3",
+                    "label": "^3",
                     "referenceType": "shortcut",
                     "children": [
                         {

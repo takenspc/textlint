@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^1",
+                    "label": "^1",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -106,6 +107,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^1",
+                    "label": "^1",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -166,6 +168,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^another **footnote**",
+                    "label": "^another **footnote**",
                     "referenceType": "shortcut",
                     "children": [
                         {

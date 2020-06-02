@@ -7,6 +7,7 @@
                 {
                     "type": "CodeBlock",
                     "lang": null,
+                    "meta": null,
                     "value": "aNormalCodeBlockInABlockqoute();",
                     "loc": {
                         "start": {
@@ -86,6 +87,7 @@
                 {
                     "type": "CodeBlock",
                     "lang": null,
+                    "meta": null,
                     "value": "thisIsAlsoSomeCodeInABlockquote();",
                     "loc": {
                         "start": {
@@ -165,6 +167,7 @@
                 {
                     "type": "CodeBlock",
                     "lang": null,
+                    "meta": null,
                     "value": "aNonTerminatedCodeBlockInABlockquote();",
                     "loc": {
                         "start": {
@@ -224,6 +227,7 @@
                 {
                     "type": "CodeBlock",
                     "lang": null,
+                    "meta": null,
                     "value": "",
                     "loc": {
                         "start": {
@@ -342,6 +346,7 @@
                 {
                     "type": "CodeBlock",
                     "lang": null,
+                    "meta": null,
                     "value": "aNewCodeBlock();",
                     "loc": {
                         "start": {

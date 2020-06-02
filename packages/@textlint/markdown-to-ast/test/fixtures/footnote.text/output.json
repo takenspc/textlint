@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^somesamplefootnote",
+                    "label": "^somesamplefootnote",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -106,6 +107,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^somesamplefootnote",
+                    "label": "^somesamplefootnote",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -205,6 +207,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "paragraph",
+                    "label": "paragraph",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -265,6 +268,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^documentdetails",
+                    "label": "^documentdetails",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -345,6 +349,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "^documentdetails",
+                    "label": "^documentdetails",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -480,6 +485,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "This footnote has a second [paragraph].",
             "loc": {
                 "start": {
@@ -500,6 +506,7 @@
         {
             "type": "Definition",
             "identifier": "paragraph",
+            "label": "paragraph",
             "title": null,
             "url": "http://example.com",
             "loc": {

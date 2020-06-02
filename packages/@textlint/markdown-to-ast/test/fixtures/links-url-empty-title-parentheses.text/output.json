@@ -167,6 +167,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "world",
+                    "label": "World",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -367,6 +368,7 @@
                 {
                     "type": "imageReference",
                     "identifier": "world",
+                    "label": "World",
                     "referenceType": "shortcut",
                     "alt": "World",
                     "loc": {

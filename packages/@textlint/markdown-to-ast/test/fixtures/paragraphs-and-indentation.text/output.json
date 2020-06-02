@@ -161,6 +161,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "***",
             "loc": {
                 "start": {
@@ -317,6 +318,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "and this is code",
             "loc": {
                 "start": {
@@ -454,6 +456,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "***",
             "loc": {
                 "start": {

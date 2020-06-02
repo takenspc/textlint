@@ -101,6 +101,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "<div>\n\tfoo\n</div>",
             "loc": {
                 "start": {
@@ -160,6 +161,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "<div>foo</div>",
             "loc": {
                 "start": {
@@ -393,6 +395,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "<!-- Comment -->",
             "loc": {
                 "start": {
@@ -510,6 +513,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "<hr>",
             "loc": {
                 "start": {

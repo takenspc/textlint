@@ -43,6 +43,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "    This is a code block...\n        \n    ...which is not exdented.",
             "loc": {
                 "start": {
@@ -102,6 +103,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "  This one...\n      \n  ...is.",
             "loc": {
                 "start": {
@@ -161,6 +163,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "So is this...\n      \n  ...one.",
             "loc": {
                 "start": {

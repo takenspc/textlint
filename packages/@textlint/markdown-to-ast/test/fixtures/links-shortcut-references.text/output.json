@@ -26,6 +26,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "simple case",
+                    "label": "simple case",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -103,6 +104,7 @@
         {
             "type": "Definition",
             "identifier": "simple case",
+            "label": "simple case",
             "title": null,
             "url": "/simple",
             "loc": {
@@ -146,6 +148,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "line break",
+                    "label": "line\nbreak",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -245,6 +248,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "line break",
+                    "label": "line \nbreak",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -322,6 +326,7 @@
         {
             "type": "Definition",
             "identifier": "line break",
+            "label": "line break",
             "title": null,
             "url": "/foo",
             "loc": {
@@ -346,6 +351,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "that",
+                    "label": "that",
                     "referenceType": "full",
                     "children": [
                         {
@@ -406,6 +412,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "other",
+                    "label": "other",
                     "referenceType": "shortcut",
                     "children": [
                         {
@@ -464,6 +471,7 @@
         {
             "type": "Definition",
             "identifier": "this",
+            "label": "this",
             "title": null,
             "url": "/this",
             "loc": {
@@ -485,6 +493,7 @@
         {
             "type": "Definition",
             "identifier": "that",
+            "label": "that",
             "title": null,
             "url": "/that",
             "loc": {
@@ -506,6 +515,7 @@
         {
             "type": "Definition",
             "identifier": "other",
+            "label": "other",
             "title": null,
             "url": "/other",
             "loc": {

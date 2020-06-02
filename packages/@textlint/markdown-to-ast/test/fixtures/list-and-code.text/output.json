@@ -5,11 +5,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -88,6 +88,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "This is code",
             "loc": {
                 "start": {

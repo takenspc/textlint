@@ -4,6 +4,7 @@
         {
             "type": "Definition",
             "identifier": "test",
+            "label": "test",
             "title": "Google",
             "url": "http://google.com/",
             "loc": {
@@ -87,6 +88,7 @@
                 {
                     "type": "LinkReference",
                     "identifier": "test",
+                    "label": "test",
                     "referenceType": "full",
                     "children": [
                         {
@@ -223,11 +225,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": true,
+            "spread": true,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": true,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -288,7 +290,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": true,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -334,11 +336,11 @@
                             "type": "List",
                             "ordered": false,
                             "start": null,
-                            "loose": false,
+                            "spread": false,
                             "children": [
                                 {
                                     "type": "ListItem",
-                                    "loose": false,
+                                    "spread": false,
                                     "checked": null,
                                     "children": [
                                         {
@@ -399,7 +401,7 @@
                                 },
                                 {
                                     "type": "ListItem",
-                                    "loose": false,
+                                    "spread": false,
                                     "checked": null,
                                     "children": [
                                         {
@@ -460,7 +462,7 @@
                                 },
                                 {
                                     "type": "ListItem",
-                                    "loose": false,
+                                    "spread": false,
                                     "checked": null,
                                     "children": [
                                         {
@@ -555,7 +557,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": true,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -616,7 +618,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -738,11 +740,11 @@
                     "type": "List",
                     "ordered": false,
                     "start": null,
-                    "loose": false,
+                    "spread": false,
                     "children": [
                         {
                             "type": "ListItem",
-                            "loose": false,
+                            "spread": false,
                             "checked": null,
                             "children": [
                                 {
@@ -803,7 +805,7 @@
                         },
                         {
                             "type": "ListItem",
-                            "loose": false,
+                            "spread": false,
                             "checked": null,
                             "children": [
                                 {
@@ -849,11 +851,11 @@
                                     "type": "List",
                                     "ordered": false,
                                     "start": null,
-                                    "loose": false,
+                                    "spread": false,
                                     "children": [
                                         {
                                             "type": "ListItem",
-                                            "loose": false,
+                                            "spread": false,
                                             "checked": null,
                                             "children": [
                                                 {
@@ -914,7 +916,7 @@
                                         },
                                         {
                                             "type": "ListItem",
-                                            "loose": false,
+                                            "spread": false,
                                             "checked": null,
                                             "children": [
                                                 {
@@ -1398,6 +1400,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "Code goes here.\nLots of it...",
             "loc": {
                 "start": {

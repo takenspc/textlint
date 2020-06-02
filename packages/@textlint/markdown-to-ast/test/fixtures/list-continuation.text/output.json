@@ -5,11 +5,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -107,11 +107,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -120,6 +120,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": "foo",
+                                    "label": "foo",
                                     "referenceType": "collapsed",
                                     "children": [
                                         {
@@ -212,6 +213,7 @@
         {
             "type": "Definition",
             "identifier": "foo",
+            "label": "foo",
             "title": null,
             "url": "http://google.com",
             "loc": {
@@ -234,11 +236,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -247,6 +249,7 @@
                                 {
                                     "type": "LinkReference",
                                     "identifier": "^foo",
+                                    "label": "^foo",
                                     "referenceType": "full",
                                     "children": [
                                         {

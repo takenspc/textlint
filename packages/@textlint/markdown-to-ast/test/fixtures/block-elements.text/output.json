@@ -5,11 +5,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -89,11 +89,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -176,11 +176,11 @@
                     "type": "List",
                     "ordered": false,
                     "start": null,
-                    "loose": false,
+                    "spread": false,
                     "children": [
                         {
                             "type": "ListItem",
-                            "loose": false,
+                            "spread": false,
                             "checked": null,
                             "children": [
                                 {
@@ -260,11 +260,11 @@
                     "type": "List",
                     "ordered": false,
                     "start": null,
-                    "loose": false,
+                    "spread": false,
                     "children": [
                         {
                             "type": "ListItem",
-                            "loose": false,
+                            "spread": false,
                             "checked": null,
                             "children": [
                                 {
@@ -361,11 +361,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": true,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": true,
+                    "spread": true,
                     "checked": null,
                     "children": [
                         {
@@ -411,11 +411,11 @@
                             "type": "List",
                             "ordered": true,
                             "start": 1,
-                            "loose": false,
+                            "spread": false,
                             "children": [
                                 {
                                     "type": "ListItem",
-                                    "loose": false,
+                                    "spread": false,
                                     "checked": null,
                                     "children": [
                                         {
@@ -528,6 +528,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "1.   Second sublist.",
             "loc": {
                 "start": {
@@ -588,11 +589,11 @@
             "type": "List",
             "ordered": false,
             "start": null,
-            "loose": false,
+            "spread": false,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": false,
+                    "spread": false,
                     "checked": null,
                     "children": [
                         {
@@ -671,6 +672,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "And this is code();",
             "loc": {
                 "start": {

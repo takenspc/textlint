@@ -1829,6 +1829,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "Backslash: \\\\\n\nBacktick: \\`\n\nAsterisk: \\*\n\nUnderscore: \\_\n\nLeft brace: \\{\n\nRight brace: \\}\n\nLeft bracket: \\[\n\nRight bracket: \\]\n\nLeft paren: \\(\n\nRight paren: \\)\n\nGreater-than: \\>\n\nHash: \\#\n\nPeriod: \\.\n\nBang: \\!\n\nPlus: \\+\n\nMinus: \\-",
             "loc": {
                 "start": {
@@ -1908,6 +1909,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "Pipe: \\|\n\nTilde: \\~",
             "loc": {
                 "start": {
@@ -1987,6 +1989,7 @@
         {
             "type": "CodeBlock",
             "lang": null,
+            "meta": null,
             "value": "Quote: \\\"\n\nDollar: \\$\n\nPercentage: \\%\n\nAmpersand: \\&\n\nSingle quote: \\'\n\nComma: \\,\n\nForward slash: \\/\n\nColon: \\:\n\nSemicolon: \\;\n\nLess-than: \\<\n\nEquals: \\=\n\nQuestion mark: \\?\n\nAt-sign: \\@\n\nCaret: \\^\n\nNew line: \\\nonly works in paragraphs.",
             "loc": {
                 "start": {
@@ -4041,7 +4044,7 @@
                 },
                 {
                     "type": "Code",
-                    "value": "\\",
+                    "value": "\\\n",
                     "loc": {
                         "start": {
                             "line": 218,

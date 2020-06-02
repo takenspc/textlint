@@ -45,11 +45,11 @@
             "type": "List",
             "ordered": true,
             "start": 1,
-            "loose": true,
+            "spread": true,
             "children": [
                 {
                     "type": "ListItem",
-                    "loose": true,
+                    "spread": true,
                     "checked": null,
                     "children": [
                         {
@@ -98,11 +98,11 @@
                                     "type": "List",
                                     "ordered": false,
                                     "start": null,
-                                    "loose": false,
+                                    "spread": false,
                                     "children": [
                                         {
                                             "type": "ListItem",
-                                            "loose": false,
+                                            "spread": false,
                                             "checked": null,
                                             "children": [
                                                 {
@@ -148,11 +148,11 @@
                                                     "type": "List",
                                                     "ordered": false,
                                                     "start": null,
-                                                    "loose": false,
+                                                    "spread": false,
                                                     "children": [
                                                         {
                                                             "type": "ListItem",
-                                                            "loose": false,
+                                                            "spread": false,
                                                             "checked": null,
                                                             "children": [
                                                                 {
@@ -198,11 +198,11 @@
                                                                     "type": "List",
                                                                     "ordered": false,
                                                                     "start": null,
-                                                                    "loose": false,
+                                                                    "spread": false,
                                                                     "children": [
                                                                         {
                                                                             "type": "ListItem",
-                                                                            "loose": false,
+                                                                            "spread": false,
                                                                             "checked": null,
                                                                             "children": [
                                                                                 {
@@ -263,7 +263,7 @@
                                                                         },
                                                                         {
                                                                             "type": "ListItem",
-                                                                            "loose": false,
+                                                                            "spread": false,
                                                                             "checked": null,
                                                                             "children": [
                                                                                 {
@@ -324,7 +324,7 @@
                                                                         },
                                                                         {
                                                                             "type": "ListItem",
-                                                                            "loose": false,
+                                                                            "spread": false,
                                                                             "checked": null,
                                                                             "children": [
                                                                                 {
@@ -504,7 +504,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": true,
+                    "spread": true,
                     "checked": null,
                     "children": [
                         {
@@ -549,6 +549,7 @@
                         {
                             "type": "CodeBlock",
                             "lang": null,
+                            "meta": null,
                             "value": "line 1\nline 2",
                             "loc": {
                                 "start": {
@@ -585,7 +586,7 @@
                 },
                 {
                     "type": "ListItem",
-                    "loose": true,
+                    "spread": true,
                     "checked": null,
                     "children": [
                         {
@@ -631,11 +632,11 @@
                             "type": "List",
                             "ordered": true,
                             "start": 1,
-                            "loose": true,
+                            "spread": true,
                             "children": [
                                 {
                                     "type": "ListItem",
-                                    "loose": true,
+                                    "spread": true,
                                     "checked": null,
                                     "children": [
                                         {
@@ -718,6 +719,7 @@
                                         {
                                             "type": "CodeBlock",
                                             "lang": "erb",
+                                            "meta": null,
                                             "value": "some code here",
                                             "loc": {
                                                 "start": {
@@ -754,7 +756,7 @@
                                 },
                                 {
                                     "type": "ListItem",
-                                    "loose": true,
+                                    "spread": true,
                                     "checked": null,
                                     "children": [
                                         {
@@ -837,6 +839,7 @@
                                         {
                                             "type": "CodeBlock",
                                             "lang": "erb",
+                                            "meta": null,
                                             "value": "foo\n---\nbar\n---\nfoo\nbar",
                                             "loc": {
                                                 "start": {
@@ -873,7 +876,7 @@
                                 },
                                 {
                                     "type": "ListItem",
-                                    "loose": true,
+                                    "spread": true,
                                     "checked": null,
                                     "children": [
                                         {
@@ -956,6 +959,7 @@
                                         {
                                             "type": "CodeBlock",
                                             "lang": "html",
+                                            "meta": null,
                                             "value": "---\nfoo\nfoo\n---\nbar",
                                             "loc": {
                                                 "start": {
@@ -992,7 +996,7 @@
                                 },
                                 {
                                     "type": "ListItem",
-                                    "loose": true,
+                                    "spread": true,
                                     "checked": null,
                                     "children": [
                                         {
@@ -1075,6 +1079,7 @@
                                         {
                                             "type": "CodeBlock",
                                             "lang": null,
+                                            "meta": null,
                                             "value": "foo\n---\nbar",
                                             "loc": {
                                                 "start": {
@@ -1111,7 +1116,7 @@
                                 },
                                 {
                                     "type": "ListItem",
-                                    "loose": false,
+                                    "spread": false,
                                     "checked": null,
                                     "children": [
                                         {

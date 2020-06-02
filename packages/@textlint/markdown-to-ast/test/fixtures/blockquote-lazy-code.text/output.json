@@ -7,6 +7,7 @@
                 {
                     "type": "CodeBlock",
                     "lang": null,
+                    "meta": null,
                     "value": "foo\nbar",
                     "loc": {
                         "start": {
